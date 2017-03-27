@@ -2,7 +2,7 @@
 
 This site is a collection of websites that have implemented CSS Grid Layout in production. To find out what CSS Grid Layout is and how to use it, visit [Grid by Example](http://gridbyexample.com).
 
-If you have implemented grid layout then [submit a pull request](https://github.com/rachelandrew/cssgrid-design). Each site is a file in the `_gridsites` directory. The format is as follows, each field is required other than gridsite-writeup.
+If you have implemented grid layout then [submit a pull request](https://github.com/rachelandrew/cssgrid-design). Each site is a file in the `_gridsites` directory. The format is as follows, each field is required other than `gridsite-writeup`.
 
 ```
 ---
