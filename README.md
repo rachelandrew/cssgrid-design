@@ -28,7 +28,7 @@ Using the default theme right now, once I have a few more sites added I'll make 
 
 ### Get ready
 
-``` shell
+```
 git clone https://github.com/rachelandrew/cssgrid-design.git
 cd cssgrid-design
 bundle install
