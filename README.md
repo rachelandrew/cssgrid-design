@@ -34,3 +34,5 @@ cd cssgrid-design
 bundle install
 jekyll serve
 ```
+
+From there, you should have a lovely instance of the site running on a local server ready to add your amazing Grid in Production example.
