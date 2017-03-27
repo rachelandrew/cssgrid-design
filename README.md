@@ -17,8 +17,6 @@ Below the front matter you can add a few lines describing how you used grid.
 Let us know if it is the full layout or if just a component where to see it in use.
 ```
 
-Using the default theme right now, once I have a few more sites added I'll make this one a grid layout too.
-
 ## Run Locally
 
 ### Prerequisites
@@ -36,3 +34,7 @@ jekyll serve
 ```
 
 From there, you should have a lovely instance of the site running on a local server ready to add your amazing Grid in Production example.
+
+## Future
+
+The site is using the default theme right now, once there are a few more sites added I'll make this one a grid layout too.
