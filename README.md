@@ -18,3 +18,19 @@ Let us know if it is the full layout or if just a component where to see it in u
 ```
 
 Using the default theme right now, once I have a few more sites added I'll make this one a grid layout too.
+
+## Run Locally
+
+### Prerequisites
+
+* Ruby
+* Bundler
+
+### Get ready
+
+```
+    git clone https://github.com/rachelandrew/cssgrid-design.git
+    cd cssgrid-design
+    bundle install
+    jekyll serve
+```
