@@ -5,4 +5,4 @@ gridsite-author: "Tempest Interactive Media"
 gridsite-author-url: "https://www.tempest.im/"
 ---
 
-Mario Vasquez updated the Niagara Falls USA website using Grid Layout with a Flexbox fallback.
+Mario Vasquez updated the Niagara Falls USA website using Grid Layout with a Flexbox fallback. Grid is used on the `main` element on page [Things to Do](https://www.niagarafallsusa.com/things-to-do/).
