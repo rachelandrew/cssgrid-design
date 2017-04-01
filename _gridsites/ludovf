@@ -1,0 +1,11 @@
+---
+gridsite-name: "React book ad page"
+gridsite-url: "https://www.ludovf.net/reactbook"
+gridsite-author: "Ludovico Fischer"
+gridsite-author-url: "https://www.ludovf.net/"
+---
+
+Personal website of Ludovico Fischer. Grid is used on the page dedicated to his book: https://www.ludovf.net/reactbook
+
+On large screens, grid layout extracts a content block and places it on a second column. Since the block originally sits in
+the middle of other content, the effect wouldn’t have been totally straighforward by other means.
