@@ -1,6 +1,6 @@
 ---
 gridsite-name: "Greece & Mediterranean Travel Centre"
-gridsite-url: "https://greecemedtravel.com.au"
+gridsite-url: "https://www.greecemedtravel.com.au"
 gridsite-author: "Simon Kubica"
 gridsite-author-url: "https://simonkubica.com"
 ---
